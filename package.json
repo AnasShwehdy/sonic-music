@@ -1,0 +1,24 @@
+{
+  "name": "sonic",
+  "version": "1.0.0",
+  "description": "all music in one place",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssif18/sonic.git"
+  },
+  "author": "AnasShwehdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youssif18/sonic/issues"
+  },
+  "homepage": "https://github.com/Youssif18/sonic#readme"
+}
