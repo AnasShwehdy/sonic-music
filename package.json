@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Youssif18/sonic.git"
+    "url": "git+https://github.com/AnasShwehdy/sonic-music.git"
   },
   "author": "AnasShwehdy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Youssif18/sonic/issues"
+    "url": "https://github.com/AnasShwehdy/sonic-music.git/issues"
   },
-  "homepage": "https://github.com/Youssif18/sonic#readme"
+  "homepage": "https://github.com/AnasShwehdy/sonic-music.git#readme"
 }
